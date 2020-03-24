@@ -7,3 +7,5 @@ Source data are stored in either of the following formats:
 - `.csv`: comma-separated values
 - `.tsv`: tabulation-separated values
 - `.rds`: RData binary file, read them with `readRDS` in R
+
+Additional data are available in the GEO repository with ID [GSE135882](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135882).
